@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="error_message">Bir hata oluştu. Lütfen daha sonra tekrar deneyin.</string>
+    <string name="error_positive_button">Tamam</string>
+    <string name="network_unavailable_message">İnternet bağlantısı yok.</string>
+    <string name="hourly">SAATLİK</string>
+    <string name="daily">GÜNLÜK</string>
+    <string name="no_data_to_display">Gösterilecek veri bulunamadı.</string>
+</resources>

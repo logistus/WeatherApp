@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="error_message">There was an error. Please try again later.</string>
+    <string name="error_positive_button">OK</string>
+    <string name="network_unavailable_message">Network is unavailable</string>
+    <string name="loading_placeholder">--</string>
+    <string name="hourly">HOURLY</string>
+    <string name="daily">DAILY</string>
+    <string name="no_data_to_display">There is no data to display.</string>
+</resources>
